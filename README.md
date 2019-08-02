@@ -1,11 +1,8 @@
-# teaching statistics
-ECON 30330 Statistics for Economics (FALL 2019)  
-Instructor: ME ---> Niu, Yuanhao  
-This repository contains codes developed for teaching.
+# ECON 30330 Statistics for Economics (FALL 2019) 
+University Of Notre Dame
+Instructor: ME --> Niu, Yuanhao  
 
-Access this Binder at the following URL:
-
-https://mybinder.org/v2/gh/yniu87/teach_stat/master
+This repository contains codes developed for teaching purpose. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yniu87/teach_stat/master)
 
