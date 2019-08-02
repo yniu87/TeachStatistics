@@ -1,4 +1,4 @@
-# ECON 30330 Statistics for Economics (FALL 2019) 
+# ECON 30330 Statistics for Economics
 University Of Notre Dame
 Instructor: ME --> Niu, Yuanhao  
 
