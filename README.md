@@ -1,6 +1,6 @@
 # ECON 30330 Statistics for Economics
 University of Notre Dame  
-Instructor: ME --> Niu, Yuanhao  
+Instructor: ME --> NIU Yuanhao  
 
 This repository contains codes developed for teaching purpose. 
 
