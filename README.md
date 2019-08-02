@@ -6,3 +6,5 @@ This repository contains codes developed for teaching.
 Access this Binder at the following URL:
 
 https://mybinder.org/v2/gh/yniu87/stat_class/master
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yniu87/stat_class/master)
