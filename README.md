@@ -5,4 +5,4 @@ This repository contains codes developed for teaching.
 
 Access this Binder at the following URL:
 
-http://beta.mybinder.org/v2/gh/binder-examples/conda_environment/v1.0?filepath=index.ipynb
+https://mybinder.org/v2/gh/yniu87/stat_class/master
