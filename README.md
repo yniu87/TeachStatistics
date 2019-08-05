@@ -10,4 +10,4 @@ Visualization codes developed for Notre Dame ECON 30330 Statistics for Economics
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yniu87/teach_stat/blob/master)
 
-![Python](https://user-images.githubusercontent.com/4949778/50740273-10ad1280-1212-11e9-8b84-0a82f5d02c2f.png)
+![Python](https://www.dataquest.io/wp-content/uploads/2019/01/1-LPnY8nOLg4S6_TG0DEXwsg-1.png)
