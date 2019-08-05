@@ -1,9 +1,6 @@
 # ECON 30330 Statistics for Economics
-University of Notre Dame (Fall 2019)
+University of Notre Dame (Fall 2019)  
 Instructor: ME --> NIU Yuanhao  
-
-# CSE 40625: Machine Learning (Spring 2017)
-
 Visualization codes developed for Notre Dame ECON 30330 Statistics for Economics.
 
 ### Assignments
