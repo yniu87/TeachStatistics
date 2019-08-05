@@ -2,7 +2,12 @@
 University of Notre Dame (Fall 2019)
 Instructor: ME --> NIU Yuanhao  
 
-This repository contains codes developed for teaching purpose. 
+# CSE 40625: Machine Learning (Spring 2017)
+
+Visualization codes developed for Notre Dame ECON 30330 Statistics for Economics.
+
+### Assignments
+1. TBD
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yniu87/teach_stat/master)
 
