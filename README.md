@@ -1,6 +1,7 @@
 # ECON 30330 Statistics for Economics
 
 University of Notre Dame (Fall 2019) 
+
 Instructor: ME --> NIU Yuanhao 
 
 Visualization codes developed for the class.   
