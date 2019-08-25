@@ -10,6 +10,6 @@ Visualization codes developed for the class.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yniu87/teach_stat/blob/master)
 
 ### Assignments
-1. TBD
+Check out other class materials in Sakai.
 
 ![Jupyter](https://www.dataquest.io/wp-content/uploads/2019/01/1-LPnY8nOLg4S6_TG0DEXwsg-1.png)
